@@ -1,0 +1,86 @@
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.exe
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.deps.json
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.runtimeconfig.json
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.runtimeconfig.dev.json
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.dll
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\ref\MicroSoft_TcpListener.dll
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.pdb
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.csprojAssemblyReference.cache
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.AssemblyInfoInputs.cache
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.AssemblyInfo.cs
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.dll
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\ref\MicroSoft_TcpListener.dll
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.pdb
+C:\Users\qaraee\source\repos\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.genruntimeconfig.cache
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.exe
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.deps.json
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.runtimeconfig.json
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.runtimeconfig.dev.json
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\ref\MicroSoft_TcpListener.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\MicroSoft_TcpListener.pdb
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.csprojAssemblyReference.cache
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.AssemblyInfoInputs.cache
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.AssemblyInfo.cs
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\ref\MicroSoft_TcpListener.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.pdb
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.genruntimeconfig.cache
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Humanizer.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\obj\Debug\net5.0\MicroSoft_TcpListener.csproj.CopyComplete
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Cosmos.CRTCompat.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+C:\Users\davoud qaraee\Desktop\MicroSoft_TcpListener\MicroSoft_TcpListener\bin\Debug\net5.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
